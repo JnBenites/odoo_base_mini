@@ -1,0 +1,13 @@
+/usr/lib/python3/dist-packages/odoo
+
+base_mini/
+    ├── __init__.py
+    ├── __manifest__.py
+    ├── models/
+    │   ├── __init__.py
+    │   └── res_users.py
+    └── security/
+        ├── ir.model.access.csv
+        └── base_mini_security.xml
+
+
